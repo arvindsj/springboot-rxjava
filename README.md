@@ -13,9 +13,9 @@ To run this project,
 `docker images` - To view the newly created image
 `docker run -p 8080:8080 sjarvind28/spring5-routes-example`
 
-Then access it via
+Then access it via <br>
 **GET:**
-http://localhost:8080/vendors/all
+http://localhost:8080/vendors/all <br>
 http://localhost:8080/vendor/2
 
 **POST:**
